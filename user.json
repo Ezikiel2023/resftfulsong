@@ -1,0 +1,41 @@
+{
+    "song(1)" : {
+       "song" : "LIHIM",
+       "artist" : "Arthur Miguel",
+       "genre" : "P-POP",
+       "link": "https://youtu.be/5G6jcJVs92c?si=dw_yYC3RAVg_3n3X",
+       "id": "1"
+    },
+    
+    "song(2)" : {
+       "song" : "PASILYO",
+       "artist" : "SunKissed Lola",
+       "genre" : "P-POP",
+       "link": "https://youtu.be/XToA-1dZYWA?si=CIvdBKh_hG7Odr7b",
+       "id": "2"
+    },
+    
+    "song(3)" : {
+       "song" : "ERE",
+       "artist" : "Juan Karlos",
+       "genre" : "P-POP",
+       "link": "https://youtu.be/Ohf3czrhCSY?si=dFfl3wSVZoaot5HX",
+       "id": "3"
+    },
+
+    "song(4)" : {
+        "song" : "MUSIKA",
+        "artist" : "Doniela",
+        "genre" : "P-POP",
+        "link": "https://youtu.be/Q-ccuUVZwaQ?si=I4MOczAWanEImdvu",
+        "id": "4"
+     },
+
+     "song(5)" : {
+        "song" : "PANGAKO",
+        "artist" : "Joem",
+        "genre" : "P-POP",
+        "link": "https://youtu.be/nwjffmBm0mI?si=I26OTO1ZvHD_7rjt",
+        "id": "5"
+     }
+ }
